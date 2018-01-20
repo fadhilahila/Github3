@@ -25,6 +25,9 @@ System.out.println("MASUKKAN MARKAH ANDA");
 System.out.println("MASUKKAN MARKAH ANDA");
 System.out.println("MASUKKAN MARKAH ANDA");
 
+System.out.println("MASUKKAN MARKAH ANDA");
+System.out.println("MASUKKAN MARKAH ANDA");
+
 System.out.println("Markah Bahasa Melayu : ");
 bm = scan.nextDouble();
 System.out.println("Markah Bahasa Inggeris : ");
